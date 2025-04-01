@@ -12,3 +12,6 @@
 
   <img src="images/exibicao_relatorios.png" width="1280"/>
 
+# Modelo de Domínio
+
+  <img src="images/modelo_dominio.png" width="1280"/>
