@@ -41,7 +41,7 @@
     5. O sistema gera o relatório com base nos dados armazenados na base de dados.
     6. O sistema apresenta o relatório ao utilizador.
 
-  ## Exibição de Relatórios Financeiros
+  ## Troca de Contas
 
     1. O utilizador inicia sessão na aplicação.
     2. O utilizador navega até à secção de metas financeiras.
