@@ -41,6 +41,16 @@
     5. O sistema gera o relatório com base nos dados armazenados na base de dados.
     6. O sistema apresenta o relatório ao utilizador.
 
+  ## Troca de Contas
+
+    1. O utilizador inicia sessão na aplicação.
+    2. O utilizador navega até à secção de metas financeiras.
+    3. O sistema apresenta uma lista das contas poupança.
+    4. O utilizador seleciona uma conta poupança para visualizar.
+    5. O sistema apresenta a nova conta poupança.
+    6. O utilizador volta á página inicial onde visualiza a sua conta corrente.
+
+
 # Modelo de Domínio
 
   <img src="images/modelo_dominio.png" width="1280"/>
