@@ -54,3 +54,14 @@
 # Modelo de Domínio
 
   <img src="images/modelo_dominio.png" width="1280"/>
+
+
+# TODO
+
+- [x] Utilizador class
+- [x] Conta class
+- [x] Transacao class
+- [x] Categoria class
+- [x] TipoTransacao enum
+- [ ] MetaFinanceira class
+- [ ] Relatorio class
